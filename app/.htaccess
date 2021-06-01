@@ -1,0 +1,3 @@
+FallbackResource /index.php
+
+Header always set Strict-Transport-Security "max-age=63072000; includeSubdomains;"
